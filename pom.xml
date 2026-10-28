@@ -8,7 +8,7 @@
         <version>4.1.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>io.github.meghanmurray</groupId>
+    <groupId>io.github.rowanmyronets</groupId>
     <artifactId>unknown-speech</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>UnknownSpeech</name>
