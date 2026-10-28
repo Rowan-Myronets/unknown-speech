@@ -1,4 +1,4 @@
-package io.github.meghanmurray.unknownspeech;
+package io.github.rowanmyronets.unknownspeech;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
